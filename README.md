@@ -1,6 +1,3 @@
----
-
-### **API-Based Projects Repository README.md**
 
 # API-Based Projects Repository
 
