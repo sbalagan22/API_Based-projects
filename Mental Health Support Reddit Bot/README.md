@@ -59,12 +59,12 @@ python mental_health_bot.py
 ```
 The bot will start monitoring new submissions in the mentalhealth subreddit. When it detects distress-related phrases, it will respond with appropriate support messages and resources.
 
-Customization
+###Customization
 
 Feel free to customize the bot’s behavior:
 	•	Modify the distress phrases: You can add or remove distress-related phrases in the check_for_context() function to tailor the bot to your needs.
 	•	Extend the response: You can change the content of the responses, adding more helplines or modifying the text to better fit the audience.
 
-Important Notes
+###Important Notes
 	•	This bot is not a replacement for professional mental health services: While the bot provides valuable resources and compassionate responses, it is not intended to replace therapy or emergency services.
 	•	Use at your own risk: By running this bot, you are responsible for ensuring its ethical use. Monitor the bot’s activity to ensure it operates in a way that aligns with your values and respects the Reddit community guidelines
