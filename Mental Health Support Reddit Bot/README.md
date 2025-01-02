@@ -62,8 +62,10 @@ The bot will start monitoring new submissions in the mentalhealth subreddit. Whe
 ### Customization
 
 Feel free to customize the bot’s behavior:
-	•	Modify the distress phrases: You can add or remove distress-related phrases in the check_for_context() function to tailor the bot to your needs.
-	•	Extend the response: You can change the content of the responses, adding more helplines or modifying the text to better fit the audience.
+
+Modify the distress phrases: You can add or remove distress-related phrases in the check_for_context() function to tailor the bot to your needs.
+
+Extend the response: You can change the content of the responses, adding more helplines or modifying the text to better fit the audience.
 
 ### Important Notes
 This bot is not a replacement for professional mental health services: While the bot provides valuable resources and compassionate responses, it is not intended 		to replace therapy or emergency services.
